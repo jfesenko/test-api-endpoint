@@ -1,16 +1,7 @@
 {"vnc-davinci-leaderboard":
 {
-    "gallbladder": [{
-        "name": "Organa, Lea",
-        "score": 99
-    }, {
-        "name": "Skywalker,Luke",
-        "score": 98
-    }],
-    "hysterectomy": [],
-    "kidney": [{
-        "name": "PX-1234,Stormtroopers",
-        "score": 90
-    }]
+ "kidney": [["Henning,Daniel", "98"], ["FN-2187,Finn", "88"], ["Vader,Darth", "60"]], 
+ "hysterectomy": [],
+ "gallbladder": [["Organa,Lea", "99"], ["Maul,Darth", "88"]]
 }
 }

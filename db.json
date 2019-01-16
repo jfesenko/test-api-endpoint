@@ -1,0 +1,14 @@
+{
+    "gallbladder": [{
+        "name": "Organa, Lea",
+        "score": 99
+    }, {
+        "name": "Skywalker,Luke",
+        "score": 98
+    }],
+    "hysterectomy": [],
+    "kidney": [{
+        "name": "PX-1234,Stormtroopers",
+        "score": 90
+    }]
+}
